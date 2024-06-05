@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kiko\\MyProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B12D9424-E2BA-484F-996F-2E0780619A99}|MyProject1.csproj|d:\\kiko\\myproject1\\services\\comparerealestatesservices\\comparerealestatesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12D9424-E2BA-484F-996F-2E0780619A99}|MyProject1.csproj|solutionrelative:services\\comparerealestatesservices\\comparerealestatesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12D9424-E2BA-484F-996F-2E0780619A99}|MyProject1.csproj|d:\\kiko\\myproject1\\services\\comparerealestatesservices\\icomparerealestatesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12D9424-E2BA-484F-996F-2E0780619A99}|MyProject1.csproj|solutionrelative:services\\comparerealestatesservices\\icomparerealestatesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12D9424-E2BA-484F-996F-2E0780619A99}|MyProject1.csproj|d:\\kiko\\myproject1\\myproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B12D9424-E2BA-484F-996F-2E0780619A99}|MyProject1.csproj|solutionrelative:myproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12D9424-E2BA-484F-996F-2E0780619A99}|MyProject1.csproj|d:\\kiko\\myproject1\\services\\authservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12D9424-E2BA-484F-996F-2E0780619A99}|MyProject1.csproj|solutionrelative:services\\authservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12D9424-E2BA-484F-996F-2E0780619A99}|MyProject1.csproj|d:\\kiko\\myproject1\\services\\wishlistservices\\wishlistservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12D9424-E2BA-484F-996F-2E0780619A99}|MyProject1.csproj|solutionrelative:services\\wishlistservices\\wishlistservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICompareRealEstatesServices.cs",
+              "DocumentMoniker": "D:\\kiko\\MyProject1\\Services\\CompareRealEstatesServices\\ICompareRealEstatesServices.cs",
+              "RelativeDocumentMoniker": "Services\\CompareRealEstatesServices\\ICompareRealEstatesServices.cs",
+              "ToolTip": "D:\\kiko\\MyProject1\\Services\\CompareRealEstatesServices\\ICompareRealEstatesServices.cs",
+              "RelativeToolTip": "Services\\CompareRealEstatesServices\\ICompareRealEstatesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:58:32.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompareRealEstatesServices.cs",
+              "DocumentMoniker": "D:\\kiko\\MyProject1\\Services\\CompareRealEstatesServices\\CompareRealEstatesServices.cs",
+              "RelativeDocumentMoniker": "Services\\CompareRealEstatesServices\\CompareRealEstatesServices.cs",
+              "ToolTip": "D:\\kiko\\MyProject1\\Services\\CompareRealEstatesServices\\CompareRealEstatesServices.cs",
+              "RelativeToolTip": "Services\\CompareRealEstatesServices\\CompareRealEstatesServices.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:58:01.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyProject1",
+              "DocumentMoniker": "D:\\kiko\\MyProject1\\MyProject1.csproj",
+              "RelativeDocumentMoniker": "MyProject1.csproj",
+              "ToolTip": "D:\\kiko\\MyProject1\\MyProject1.csproj",
+              "RelativeToolTip": "MyProject1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T12:20:31.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\kiko\\MyProject1\\Services\\AuthServices\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthServices\\AuthService.cs",
+              "ToolTip": "D:\\kiko\\MyProject1\\Services\\AuthServices\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthServices\\AuthService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:48:51.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WIshListServices.cs",
+              "DocumentMoniker": "D:\\kiko\\MyProject1\\Services\\WishListServices\\WIshListServices.cs",
+              "RelativeDocumentMoniker": "Services\\WishListServices\\WIshListServices.cs",
+              "ToolTip": "D:\\kiko\\MyProject1\\Services\\WishListServices\\WIshListServices.cs",
+              "RelativeToolTip": "Services\\WishListServices\\WIshListServices.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA+wB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:31:21.893Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

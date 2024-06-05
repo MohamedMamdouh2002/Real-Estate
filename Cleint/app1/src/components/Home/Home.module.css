@@ -1,0 +1,9 @@
+.bgheader{
+    background-image: url(../../Assets/headerPhoto1.png);
+    background-repeat:repeat;
+    background-size: 100% 100%;
+    background-position: center center;
+    height: 60vh;
+    
+}
+
